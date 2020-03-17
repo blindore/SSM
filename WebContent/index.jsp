@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="getTeacher?id=1">查询页面显示</a>
+<a href="getTeacher?id=1">查询显示</a>
 <a href="getall">查询所有员工</a>
 </body>
 </html>
